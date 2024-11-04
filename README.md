@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poovarasan-saravanan-b40817267/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poovarasan-saravanan-b40817267/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@poovarasansaravanan-r5p?si=Qn8HygHRsmd3jg9L)
+
 [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=about.me&logoColor=white)](https://linktr.ee/poovarasan13)
 
 # 💻 Tech Stack:
