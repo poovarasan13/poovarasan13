@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poovarasan-saravanan-b40817267/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@poovarasansaravanan-r5p?si=Qn8HygHRsmd3jg9L)
-
 [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=about.me&logoColor=white)](https://linktr.ee/poovarasan13)
 
 # 💻 Tech Stack:
@@ -94,8 +93,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poovarasan13&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=poovarasan13&limit=5&theme=dark&combine_all_yearly_contributions=true)
