@@ -1,107 +1,116 @@
-# 💫 About Me :
-👋 Hi, I'm Poovarasan!<br>🚀 Full Stack Developer | 💻 B.Tech. IT Student | 💡 Tech Enthusiast  |  <br><br>🌟 About Me<br>I’m passionate about creating functional, visually engaging web applications and thrive on solving complex problems. My expertise spans:<br><br>Frontend: HTML, CSS, JavaScript, Bootstrap, React<br>Backend: Express js , SpringBoot, Node.js, PHP, Express<br>Databases: MySQL, MongoDB<br>Programming Languages: C, Java (Problem Solving)<br><br>💬 "For me, technology is more than just a career—it’s a constant curiosity. I’m always eager to learn, innovate, and collaborate!"<br><br>📫 Let’s connect, code, and create something impactful together!
+<h1 align="center">Hi 👋, I'm Poovarasan</h1>
+<h3 align="center">Full Stack Developer | MERN & Java | B.Tech IT Student | Tech Explorer</h3>
 
+<p align="center">
+Passionate about building scalable web apps, solving real-world problems, and learning new technologies every day.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poovarasan-saravanan-b40817267/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@poovarasansaravanan-r5p?si=Qn8HygHRsmd3jg9L)
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=about.me&logoColor=white)](https://linktr.ee/poovarasan13)
+---
 
-# 💻 Tech Stack:
-<!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  
-  <!-- Apache -->
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
-  </a>
-  
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+## 🚀 About Me
+- 💻 Full Stack Developer (MERN + Java)
+- 🎓 B.Tech Information Technology
+- 🔥 Love building real-world projects and exploring new tech
+- 🧠 Strong in problem solving and backend logic
+- 🌱 Currently learning: **Docker, System Design, Advanced Spring Boot**
+- 🎯 Goal: Crack a top product-based or remote developer role
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=poovarasan13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=poovarasan13&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> *Technology for me is curiosity + creativity + consistency.*
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=poovarasan13&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-<!---
-[![](https://visitcount.itsvg.in/api?id=poovarasan13&icon=5&color=6)](https://visitcount.itsvg.in)
--->
-<!--  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/poovarasan) 
--->
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/poovarasan-saravanan-b40817267/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@poovarasansaravanan-r5p" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/poovarasan13" target="_blank">
+<img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,js,php" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,reactnative,figma" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,apache" />
+</p>
+
+---
+
+# 🧠 What I Do
+- Build full stack web applications  
+- REST API development (Node + Spring Boot)  
+- Responsive frontend with React  
+- Database design and integration  
+- Authentication & role-based systems  
+- Deployment & containerization using Docker  
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=poovarasan13&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=poovarasan13&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan13&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Featured Skills
+✔ MERN Stack Development  
+✔ Java Full Stack (Spring Boot)  
+✔ REST API Development  
+✔ Authentication Systems (JWT, Role Based)  
+✔ Docker Basics & Deployment  
+✔ Problem Solving (Java + C)  
+
+---
+
+# 📌 2026 Goals
+- 🚀 Get placed in a top product/remote company  
+- 🧠 Master Data Structures & System Design  
+- 🐳 Become strong in Docker & deployment  
+- 📱 Build React Native apps  
+- 🌟 Contribute to open source  
+
+---
+
+# 💬 Quote I Believe In
+> “Keep building. Keep learning. Consistency beats talent.”
+
+---
+
+<p align="center">
+⭐ From <b>Poovarasan</b> — Let's build something amazing together!
+</p>
