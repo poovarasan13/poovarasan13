@@ -11,9 +11,8 @@ Passionate about building scalable web apps, solving real-world problems, and le
 - 💻 Full Stack Developer (MERN + Java)
 - 🎓 B.Tech Information Technology
 - 🔥 Love building real-world projects and exploring new tech
-- 🧠 Strong in problem solving and backend logic
 - 🌱 Currently learning: **Docker, System Design, Advanced Spring Boot**
-- 🎯 Goal: Crack a top product-based or remote developer role
+
 
 > *Technology for me is curiosity + creativity + consistency.*
 
