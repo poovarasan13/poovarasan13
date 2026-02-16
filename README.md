@@ -73,45 +73,31 @@ Passionate about building scalable web apps, solving real-world problems, and le
 - Deployment & containerization using Docker  
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=poovarasan13&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poovarasan13&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poovarasan13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=poovarasan13&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan13&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasan13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=poovarasan13&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=poovarasan13&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poovarasan13&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poovarasan13&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🔝 Top Contributed Repositories
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=poovarasan13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=poovarasan13&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
 
 
 ---
