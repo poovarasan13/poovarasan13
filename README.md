@@ -44,8 +44,10 @@ Passionate about building scalable web apps, solving real-world problems, and le
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,reactnative,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" title="React Native"/>
 </p>
+
 
 ### ⚙️ Backend Development
 <p>
