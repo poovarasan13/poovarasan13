@@ -87,24 +87,8 @@ Passionate about building scalable web apps, solving real-world problems, and le
 
 ---
 
-# 🔥 Featured Skills
-✔ MERN Stack Development  
-✔ Java Full Stack (Spring Boot)  
-✔ REST API Development  
-✔ Authentication Systems (JWT, Role Based)  
-✔ Docker Basics & Deployment  
-✔ Problem Solving (Java + C)  
 
----
 
-# 📌 2026 Goals
-- 🚀 Get placed in a top product/remote company  
-- 🧠 Master Data Structures & System Design  
-- 🐳 Become strong in Docker & deployment  
-- 📱 Build React Native apps  
-- 🌟 Contribute to open source  
-
----
 
 # 💬 Quote I Believe In
 > “Keep building. Keep learning. Consistency beats talent.”
