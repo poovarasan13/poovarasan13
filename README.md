@@ -14,7 +14,6 @@ Passionate about building scalable web apps, solving real-world problems, and le
 - 🌱 Currently learning: **Docker, System Design, Advanced Spring Boot**
 
 
-> *Technology for me is curiosity + creativity + consistency.*
 
 ---
 
