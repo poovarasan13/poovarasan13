@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poovarasan</h1>
 <h3 align="center">Full Stack Developer | MERN & Java | B.Tech IT Student | Tech Explorer</h3>
 
-<p align="center">
-Passionate about building scalable web apps, solving real-world problems, and learning new technologies every day.
-</p>
 
 ---
 
